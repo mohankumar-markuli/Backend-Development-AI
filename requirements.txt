@@ -2,3 +2,4 @@ groq
 python-dotenv
 jupyter
 rank_bm25
+sentence-transformers
