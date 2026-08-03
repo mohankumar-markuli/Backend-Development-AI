@@ -3,3 +3,16 @@ python-dotenv
 jupyter
 rank_bm25
 sentence-transformers
+streamlit
+langchain-community
+faiss-cpu
+cohere
+PyPDF2
+numpy
+pandas
+pypdf
+ragas
+openai
+pydantic
+rouge_score
+rapidfuzz
