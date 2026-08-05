@@ -4,7 +4,10 @@ jupyter
 rank_bm25
 sentence-transformers
 streamlit
+langchain
 langchain-community
+langchain-openrouter
+langchain-huggingface
 faiss-cpu
 cohere
 PyPDF2
@@ -16,3 +19,5 @@ openai
 pydantic
 rouge_score
 rapidfuzz
+google-search-results   
+requests
