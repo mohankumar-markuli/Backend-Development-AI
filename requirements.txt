@@ -8,6 +8,9 @@ langchain
 langchain-community
 langchain-openrouter
 langchain-huggingface
+langchain-core
+langchain-openai
+langchain-experimental
 faiss-cpu
 cohere
 PyPDF2
@@ -21,3 +24,5 @@ rouge_score
 rapidfuzz
 google-search-results   
 requests
+langgraph 
+typing-extensions
